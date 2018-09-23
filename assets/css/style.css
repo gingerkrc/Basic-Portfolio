@@ -78,7 +78,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-
+/* Content box */
 .about-me {
     position: relative;
     background: #fff;
@@ -101,6 +101,7 @@ li a {
     padding: 10px;
 }
 
+/* Sticky footer */
 .footer {
     position: fixed;
     left: 0;
@@ -119,6 +120,7 @@ li a {
  }
  * {box-sizing: border-box;}
 
+/* Input form */
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
@@ -142,7 +144,7 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: #8fb7b0;
 }
-
+/* Images with text blocks */
 .box {
     float:left;
     position:relative;
